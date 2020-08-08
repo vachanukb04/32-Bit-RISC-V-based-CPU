@@ -29,3 +29,5 @@ Below are the tasks performed in 5-Day worksop -
 1. Pipelining the CPU
 2. Load and store instructions and memory
 3. Completing the RISC-V CPU
+
+![CPU bock diagram](CPU_Block.PNG)
