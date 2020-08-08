@@ -34,4 +34,4 @@ Below are the tasks performed in 5-Day worksop -
 ![CPU bock diagram](CPU_Block.PNG)
 
 # Pipeline Architecture
-![Pipeline Architecture](5-Stage_pipeline.PNG)
+![Pipeline Architecture](5-Stage_pipeline.png)
