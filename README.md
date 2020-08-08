@@ -35,3 +35,6 @@ Below are the tasks performed in 5-Day worksop -
 
 # Pipeline Architecture
 ![Pipeline Architecture](5-Stage_pipeline.png)
+
+# Makerchip
+![Final snap](Final_Snap.PNG)
