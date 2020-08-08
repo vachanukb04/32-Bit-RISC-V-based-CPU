@@ -14,7 +14,7 @@ Below are the tasks performed in 5-Day worksop -
 2. Lab work using ABI function calls
 3. Basic verification flow using iverilog
 
-# DAY-3 - Digital Logic with TL-Verilog and Makerchip
+# DAY-3 - Digital Logic with TL-Verilog and Makerchip (http://makerchip.com/)
 1. Combinational logic in TL-Verilog using Makerchip
 2. Sequential and pipelined logic
 3. Validity
