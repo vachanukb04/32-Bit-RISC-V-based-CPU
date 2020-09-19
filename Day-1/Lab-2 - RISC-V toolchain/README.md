@@ -1,0 +1,6 @@
+The same C program is now compiled using RISC-V toolchain.
+
+*Command used to compile the C program is riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c or riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c.
+*To view to disassemble and view the object file in readable format,we use riscv64-unknown-elf-objdump -d sum1ton.o command.
+*To run we use spike which is a RISC-V simulator, following is the command spike pk sum1ton.o.
+*Spike has a debugging feature too which can be used to run it in steps, following is the command spike -d pk sum1ton.o.
