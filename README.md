@@ -31,7 +31,7 @@ Below are the tasks performed in 5-Day worksop -
 3. Completing the RISC-V CPU
 
 # CPU Block
-![CPU bock diagram](CPU_Block.PNG)
+![CPU bock diagram](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/CPU_Block.PNG)
 
 # Pipeline Architecture
 ![Pipeline Architecture](5-Stage_pipeline.png)
