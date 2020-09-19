@@ -34,12 +34,12 @@ Below are the tasks performed in 5-Day worksop -
 ![CPU bock diagram](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/CPU_Block.PNG)
 
 # Pipeline Architecture
-![Pipeline Architecture](5-Stage_pipeline.png)
+![Pipeline Architecture](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/5-Stage_pipeline.png)
 
 # Instructions and Register values
-![Logs](Log-1.PNG)
+![Logs](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Log-1.PNG)
 
 # Makerchip
-![Final snap](Final_Snap.PNG)
+![Final snap](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Final_Snap.PNG)
 
-![Snap](Snap.png)
+![Snap](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Snap.png)
