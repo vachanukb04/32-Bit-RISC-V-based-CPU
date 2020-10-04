@@ -12,3 +12,7 @@ For example - RV32IMFD
 * M – Multiply and divide are supported in hardware.
 * F – Single precision (32 bit) 2loating point is supported.
 * D – Double precision (64 bit) 2loating point is supported.
+
+Any application that needs to be run on hardware requires certain flow to pass the information to hardware design in certain terms. Any application software written in C/C++/JAVA needs to be compiled into assembly level program (RISC-V Architecture, x86, ARM etc). This assembly level language is then converted into machine level language using assembler that needs to be implemented on Hardware.
+
+There is another interface that is present between RISC-V archtecture and layout design that is "Hardware Description Language". We need to create a RISC-V specification using RTL (In this workshop we will be using picoRV32 cpu core). This RTL implements RISC-V specfications and finally to layout (RTL2GDS flow.). So the entire flow starts from RISC-V architecture -> RTL implementation -> RTL2GDS.
