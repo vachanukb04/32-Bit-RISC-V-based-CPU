@@ -25,4 +25,4 @@ Any application in C,C++,JAVA are converted to instructions using compiler. Now,
 Now the assembler takes these instructions and convert into respective binary format (Machine level language) taht will be implemented in Hardware.
 
 Lets take Stopwatch application as an example - 
-![Stop watche xample]
+![Stop watch example](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Day-1/Stop%20watch%20example.png)
