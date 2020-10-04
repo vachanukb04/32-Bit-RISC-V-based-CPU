@@ -26,4 +26,6 @@ Now the assembler takes these instructions and convert into respective binary fo
 
 Below image is an example of Stopwatch application - 
 ![Stop watch example](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Day-1/Stop%20watch%20example.png)
-A C program is an input to the compiler and output of the compiler is RISC-V instruction. These RISC-V instructions goes as input to the assembler and output of this is binary numbers taht enters into our hardware.
+A C program is an input to the compiler and output of the compiler is RISC-V instruction. These RISC-V instructions goes as input to the assembler and output of this is binary numbers that enters into our hardware.
+
+We have one more interface between ISA to hardware and that's *"Hardware Description Language"*. We need an RTL that our hardware understands any instructions to perform any operation. This RTL is then sysnthesized to gate level and is converted into layout (RTL2GDS flow).
