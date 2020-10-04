@@ -21,3 +21,5 @@ There is another interface that is present between RISC-V archtecture and layout
 The Application software enters into a block called System Software. This System software converts the application program into teh binary language. The major components of System software are OS (Operating Systems), Compiler and Assembler. The major operation of OS is to convet any application into particular assembly language program and then to binary language.
 
 Any application in C,C++,JAVA are converted to instructions using compiler. Now, the instructions we want depends on the type of hardware we want. For example, if your target hardware is for x86, the instruction will be for x86 only. For this project the instructions will be in RISC-V CPU core. These instructions will be in *.exe* file.
+
+Now the assembler takes these instructions and convert into respective binary format (Machine level language) taht will be implemented in Hardware.
