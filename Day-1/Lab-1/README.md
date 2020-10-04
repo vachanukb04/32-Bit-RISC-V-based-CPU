@@ -23,7 +23,7 @@ In order to understand RISC-V ISA and work on the implementation, you will need 
 # For compiling using GNU toolchain
 1. Open a file named sum_1_to_n. using leafpad editor.
       
-      `$leafpad sum_1_to_n.c`
+      `$leafpad sum1ton.c`
       
 Write your C code for sum of numbers from 1 to n (say n =9).
 Compile using GNU compiler.
