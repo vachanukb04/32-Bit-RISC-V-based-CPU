@@ -24,5 +24,6 @@ Any application in C,C++,JAVA are converted to instructions using compiler. Now,
 
 Now the assembler takes these instructions and convert into respective binary format (Machine level language) taht will be implemented in Hardware.
 
-Lets take Stopwatch application as an example - 
+Below image is an example of Stopwatch application - 
 ![Stop watch example](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Day-1/Stop%20watch%20example.png)
+A C program is an input to the compiler and output of the compiler is RISC-V instruction. These RISC-V instructions goes as input to the assembler and output of this is binary numbers taht enters into our hardware.
