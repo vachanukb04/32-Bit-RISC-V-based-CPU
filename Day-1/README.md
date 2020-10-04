@@ -23,3 +23,6 @@ The Application software enters into a block called System Software. This System
 Any application in C,C++,JAVA are converted to instructions using compiler. Now, the instructions we want depends on the type of hardware we want. For example, if your target hardware is for x86, the instruction will be for x86 only. For this project the instructions will be in RISC-V CPU core. These instructions will be in *.exe* file.
 
 Now the assembler takes these instructions and convert into respective binary format (Machine level language) taht will be implemented in Hardware.
+
+Lets take Stopwatch application as an example - 
+![Stop watche xample]
