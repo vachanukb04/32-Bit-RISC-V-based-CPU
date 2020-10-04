@@ -10,8 +10,8 @@ For example - RV32IMFD
 * RV64 - 64 bit wide registers used in 64bit machines.
 * I – Basic integer arithmetic is supported.
 * M – Multiply and divide are supported in hardware.
-* F – Single precision (32 bit) 2loating point is supported.
-* D – Double precision (64 bit) 2loating point is supported.
+* F – Single precision (32 bit) floating point is supported.
+* D – Double precision (64 bit) floating point is supported.
 
 ![OS-Hardware](https://github.com/vachanukb04/32-Bit-RISC-V-based-CPU/blob/master/Images/Day-1/OS-Hardware.png)
 Any application that needs to be run on hardware requires certain flow to pass the information to hardware design in certain terms. Any application software written in C/C++/JAVA needs to be compiled into assembly level program (RISC-V Architecture, x86, ARM etc). This assembly level language is then converted into machine level language using assembler that needs to be implemented on Hardware.
