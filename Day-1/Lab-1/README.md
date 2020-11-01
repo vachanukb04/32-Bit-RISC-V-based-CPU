@@ -15,7 +15,10 @@ In order to understand RISC-V ISA and work on the implementation, you will need 
 3. For installation of the complete toolchain, run the "run.sh" shell script. For this, type the following command:
 
       `$./run.sh`
+4. If permission is denied, type
 
+      `$chmod 777 run.sh`
+      
 # Lab Exercise 
 
 # C Program to find  the Sum of numbers from 1 to n
